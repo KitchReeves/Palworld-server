@@ -18,7 +18,9 @@ Step 4 copy the DefaultPalWorldSettings.ini script
 
 ![image](https://github.com/KitchReeves/Palworld-server/assets/158783649/c015490a-2cb5-4631-bef6-1d2f34aa5092)
 
-Step 5 go to \SteamLibrary\steamapps\common\PalServer\Pal\Saved\Config\WindowsServer and paste the code in with a few changes like server name and password. Save changes and you should be able to launch your server now.
+Step 5 go to \SteamLibrary\steamapps\common\PalServer\Pal\Saved\Config\WindowsServer and paste the code in with a few changes like server name and password. 
 
 ![image](https://github.com/KitchReeves/Palworld-server/assets/158783649/9a480393-3622-4d71-afcc-b131074ab4e4)
+
+Step 6 Save changes and you should be able to launch your server now. Your friends will need your public IP address in order for them to join the server.
 
