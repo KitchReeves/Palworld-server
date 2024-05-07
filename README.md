@@ -3,7 +3,8 @@ Palworld server setup
 
 Step 1 Enable port fowarding for ports 8211 and 27015 ~ 27016	both UDP and TCP
 
-![image](https://github.com/KitchReeves/Palworld-server/assets/158783649/4a5aa640-7333-4670-88ca-35ccc0c1b1a
+![image](https://github.com/KitchReeves/Palworld-server/assets/158783649/18f8148a-5a1b-40e8-8164-0c079938337f)
+
 
 Step 2 Launch the dedicated server to create a save file, then close it
 
